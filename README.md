@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @judealatawi
-- 👀 I’m interested in AI, Data analysis, and security.
-- 🌱 I’m currently Studying computer science
+- 👀 I’m interested in AI, Data analysis.
+- 🌱 I’m a Computer Science graduate
 - 📫 How to reach me judealatawi@gmail.com
 
 <!---
